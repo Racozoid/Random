@@ -1,0 +1,61 @@
+2021-12-20 09:13:37,154 - Logger - INFO - Program started
+2021-12-20 09:13:39,498 - Logger - INFO - User entered value 4
+2021-12-20 09:13:39,498 - Logger - INFO - Displayed number: 2
+2021-12-20 09:13:40,569 - Logger - INFO - Displayed number: 1
+2021-12-20 09:13:41,363 - Logger - INFO - Displayed number: 3
+2021-12-20 09:13:42,010 - Logger - INFO - Displayed number: 4
+2021-12-20 09:13:42,881 - Logger - INFO - Program done
+2021-12-20 09:14:34,453 - Logger - INFO - Program started
+2021-12-20 09:14:36,513 - Logger - INFO - User entered value 5
+2021-12-20 09:14:36,514 - Logger - INFO - Displayed number: 1
+2021-12-20 09:14:37,640 - Logger - INFO - Displayed number: 5
+2021-12-20 09:14:38,142 - Logger - INFO - Displayed number: 2
+2021-12-20 09:14:38,612 - Logger - INFO - Displayed number: 3
+2021-12-20 09:14:39,143 - Logger - INFO - Displayed number: 4
+2021-12-20 09:14:39,888 - Logger - INFO - Program done
+2021-12-20 09:15:27,945 - Logger - INFO - Program started
+2021-12-20 09:15:33,753 - Logger - INFO - User entered value 10
+2021-12-20 09:15:33,753 - Logger - INFO - Displayed number: 9
+2021-12-20 09:15:34,970 - Logger - INFO - Displayed number: 3
+2021-12-20 09:15:35,605 - Logger - INFO - Displayed number: 5
+2021-12-20 09:15:36,106 - Logger - INFO - Displayed number: 4
+2021-12-20 09:15:36,698 - Logger - INFO - Displayed number: 10
+2021-12-20 09:15:37,194 - Logger - INFO - Displayed number: 1
+2021-12-20 09:15:37,686 - Logger - INFO - Displayed number: 6
+2021-12-20 09:15:38,163 - Logger - INFO - Displayed number: 2
+2021-12-20 09:15:38,668 - Logger - INFO - Displayed number: 7
+2021-12-20 09:15:39,189 - Logger - INFO - Displayed number: 8
+2021-12-20 09:15:39,729 - Logger - INFO - Program done
+2021-12-20 09:16:15,567 - Logger - INFO - Program started
+2021-12-20 09:16:17,544 - Logger - INFO - User entered value 30
+2021-12-20 09:16:17,544 - Logger - INFO - Displayed number: 28
+2021-12-20 09:16:18,899 - Logger - INFO - Displayed number: 3
+2021-12-20 09:16:19,360 - Logger - INFO - Displayed number: 16
+2021-12-20 09:16:19,732 - Logger - INFO - Displayed number: 27
+2021-12-20 09:16:20,233 - Logger - INFO - Displayed number: 14
+2021-12-20 09:16:20,564 - Logger - INFO - Displayed number: 2
+2021-12-20 09:16:20,895 - Logger - INFO - Displayed number: 11
+2021-12-20 09:16:21,225 - Logger - INFO - Displayed number: 9
+2021-12-20 09:16:21,553 - Logger - INFO - Displayed number: 10
+2021-12-20 09:16:21,853 - Logger - INFO - Displayed number: 7
+2021-12-20 09:16:22,163 - Logger - INFO - Displayed number: 4
+2021-12-20 09:16:22,474 - Logger - INFO - Displayed number: 23
+2021-12-20 09:16:22,816 - Logger - INFO - Displayed number: 19
+2021-12-20 09:16:23,159 - Logger - INFO - Displayed number: 6
+2021-12-20 09:16:23,543 - Logger - INFO - Displayed number: 12
+2021-12-20 09:16:23,941 - Logger - INFO - Displayed number: 29
+2021-12-20 09:16:24,358 - Logger - INFO - Displayed number: 21
+2021-12-20 09:16:24,753 - Logger - INFO - Displayed number: 22
+2021-12-20 09:16:25,142 - Logger - INFO - Displayed number: 25
+2021-12-20 09:16:25,550 - Logger - INFO - Displayed number: 30
+2021-12-20 09:16:25,975 - Logger - INFO - Displayed number: 13
+2021-12-20 09:16:26,417 - Logger - INFO - Displayed number: 15
+2021-12-20 09:16:26,855 - Logger - INFO - Displayed number: 26
+2021-12-20 09:16:27,284 - Logger - INFO - Displayed number: 8
+2021-12-20 09:16:27,712 - Logger - INFO - Displayed number: 20
+2021-12-20 09:16:28,154 - Logger - INFO - Displayed number: 17
+2021-12-20 09:16:28,603 - Logger - INFO - Displayed number: 18
+2021-12-20 09:16:29,071 - Logger - INFO - Displayed number: 5
+2021-12-20 09:16:29,500 - Logger - INFO - Displayed number: 1
+2021-12-20 09:16:29,928 - Logger - INFO - Displayed number: 24
+2021-12-20 09:16:30,362 - Logger - INFO - Program done
